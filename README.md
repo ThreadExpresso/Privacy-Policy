@@ -1,6 +1,6 @@
 # **Privacy Policy**
 
-## **Last updated: 12/04/2023**
+## **Last updated: 12/05/2023**
 
 
 This Privacy Policy describes how ThreadExpresso ("we", "us", or "our") handles your personal information when you use our Chrome Extension (the "Service"). Please read this Privacy Policy carefully before using our Service.
@@ -11,7 +11,7 @@ By using the Service, you agree to the handling of your personal information in 
 ## **Information Handling**
 
 
-We do not collect any personal information from you. When you sign in with your Google account, we use the Chrome Identity API to store your email address locally in your browser storage. This information is used only to provide you with the premium features of our Service and to manage your access to the Service.
+We do not collect **any** personal information from you.
 
 
 ## **OpenAI API**
